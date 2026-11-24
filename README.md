@@ -16,7 +16,7 @@ El dashboard **no es un análisis nuevo**: presenta los mismos datos y conclusio
 
 ## Dashboard publicado
 
-👉 **[Abrir el dashboard](PEGAR_AQUI_URL_DE_STREAMLIT)** *(pendiente de despliegue)*
+👉 **[Abrir el dashboard]https://dashboard-interactiva-calidad-del-aire-en-colombia-ekv5h7p4v2k.streamlit.app/#3-validacion-estadistica-las-estaciones-fijas-y-las-temporales-miden-lo-mismo
 
 ## Hallazgos principales
 
@@ -39,7 +39,7 @@ El dashboard **no es un análisis nuevo**: presenta los mismos datos y conclusio
 
 ```bash
 # 1. Clonar el repositorio
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/EmanuelVDesarrollo/Dashboard-Interactiva-Calidad-del-Aire-en-Colombia.git>
 cd <carpeta-del-repositorio>
 
 # 2. (Opcional) crear un entorno virtual
